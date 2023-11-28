@@ -1,4 +1,7 @@
-### Hi there 👋
+<p align="left">
+  <img src="https://api.status.gg/discord/1116506682982412340" alt="API Status" width="450" />
+</p>
+
 
 <!--
 **clip/clip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
